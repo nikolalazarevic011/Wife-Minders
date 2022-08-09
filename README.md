@@ -8,9 +8,9 @@ https://wife-minders-30c9d9.netlify.app/
 
  -<a href="https://reactjs.org/">React</a>
  
- -<a href ="https://prettier.io/">Prettier for code readability</a>  https://app.netlify.com/teams/nikolalazarevic95/overview
+ -<a href ="https://prettier.io/">Prettier for code readability</a>  
  
--<a href ="https://app.netlify.com/teams/nikolalazarevic95/overview/">Deploying the website</a>
+-<a href ="https://app.netlify.com/teams/nikolalazarevic95/overview/">Netlify for deploying the website</a>
 
 
 <b>⚡ Installation  </b>
