@@ -1,5 +1,6 @@
 <b>📝 WifeMinders.js 📝 </b>
 
+Simple webiste to help you remember all Wife Related things. Never forget what wife told you in past conersations :)
 
 https://wife-minders-30c9d9.netlify.app/
 
