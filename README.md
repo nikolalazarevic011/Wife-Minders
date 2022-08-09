@@ -10,8 +10,9 @@ https://wife-minders-30c9d9.netlify.app/
  
  -<a href ="https://prettier.io/">Prettier for code readability</a>  
  
--<a href ="https://app.netlify.com/teams/nikolalazarevic95/overview/">Netlify for deploying the website</a>
+-<a href ="https://app.netlify.com/teams/nikolalazarevic95/overview/">Netlify for deploying the website</a>  
 
+-<a href ="https://firebase.google.com/">Firebase for backend</a>
 
 <b>⚡ Installation  </b>
   -clone repo
