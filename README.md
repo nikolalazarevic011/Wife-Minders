@@ -1,5 +1,5 @@
 <b>📝 WifeMinders.js 📝 </b>
-
+https://wife-minders-30c9d9.netlify.app/
 
 <b>🛠️ Technologies used</b>
 
