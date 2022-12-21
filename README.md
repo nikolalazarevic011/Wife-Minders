@@ -17,6 +17,6 @@ https://wife-minders-30c9d9.netlify.app/
 <b>⚡ Installation  </b>
   -clone repo
   -npm install
-  -npm run
+  -npm run serve
 
 
